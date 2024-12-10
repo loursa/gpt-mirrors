@@ -1,4 +1,4 @@
-# 【中文版镜像】 ChatGPT国内中文版镜像网站整理合集（2024/12/06）
+# 【ChatGPT中文版】 ChatGPT国内中文版镜像网站整理合集（2024/12/10）
 
 随着人工智能的发展，ChatGPT作为领先的智能聊天模型，受到了广泛的关注和应用。在国内，越来越多的人希望使用ChatGPT中文版，体验智能对话的便捷和高效。然而，由于网络环境等因素，获取和使用ChatGPT的免费入口并不总是直观易得。本文将为大家整理和介绍2024年最新的ChatGPT国内中文版免费入口及使用方法，帮助大家轻松上手体验。
 
@@ -11,7 +11,7 @@
 3. [https://ai-panda.xyz/](https://ai-panda.xyz/login?invite_code=34137c47)  ——  运营时长两年，支持GPT4.0、GPT4o。
 4. http://gptdog.online/  —— 运营时长一年半，bug比较多，大家可以看情况使用。
 
-![image](https://github.com/user-attachments/assets/d65a3fda-a30b-4ec3-b8ff-b3023577e859)
+
 
 ## 国内AI大模型
 
